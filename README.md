@@ -1,2 +1,15 @@
 # HandTracing
-Esse programa será uma aplicação de aprendizados obtidos em cursos da alura com python e OpenCV
+
+Esse projeto é uma aplicação dos conhecimentos adquiridos nos cursos da Alura utilizando **Python** e **OpenCV**.
+
+---
+
+## Organização do projeto
+
+```text
+HandTracing/
+├── documentacao/          # Fotos das anotações feitas à mão
+├── curso/                 # Códigos e anotações do curso
+├── HandTracingSoftware/   # Software principal
+└── README.md
+```
