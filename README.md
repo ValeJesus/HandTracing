@@ -20,7 +20,7 @@ HandTracing/
   <table>
     <tr>
       <td>
-        # Mapemento com webcam
+        
   ![Demonstração](documentação/gifdemo.gif)
         </td>
       <td>
