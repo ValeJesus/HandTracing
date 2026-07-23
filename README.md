@@ -1,6 +1,6 @@
 # HandTracing
 
-Esse projeto é uma aplicação dos conhecimentos adquiridos nos cursos da Alura utilizando **Python** e **OpenCV**.
+Esse projeto é uma aplicação dos conhecimentos adquiridos nos cursos da Alura utilizando **Python**, **OpenCV** e **Mediapipe**.
 
 ---
 
@@ -13,4 +13,21 @@ HandTracing/
 ├── HandTracingSoftware/   # Software principal
 └── README.md
 ```
-![Demonstração](documentação/gifdemo.gif)
+
+# Mapeamento dos pontos da mão
+
+<div>
+  <table>
+    <tr>
+      <td>
+        # Mapemento com webcam
+  ![Demonstração](documentação/gifdemo.gif)
+        </td>
+      <td>
+        ![Demonstração](documentação/mapeamento.png)
+      </td>
+      </tr>
+  </table>
+  
+  </div>
+
