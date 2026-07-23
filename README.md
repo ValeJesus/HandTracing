@@ -13,3 +13,4 @@ HandTracing/
 ├── HandTracingSoftware/   # Software principal
 └── README.md
 ```
+![Demonstração](documentação/gifdemo.gif)
