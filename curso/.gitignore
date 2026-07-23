@@ -1,0 +1,17 @@
+# Ambiente virtual
+HandTracing/
+HandTracing311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / editor
+.vscode/
+
+# Arquivos de ambiente local
+.env
+*.log
+
+# Dependências locais
+requirements.txt
